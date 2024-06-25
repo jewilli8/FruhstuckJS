@@ -1,2 +1,2 @@
 # FruhstuckJS
-##A blog application that will be significantly more robust as 6/25 18:00 approaches 
+##A blog application that will be significantly more robust as 6/26 20:00 approaches 
